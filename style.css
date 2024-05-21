@@ -1,0 +1,134 @@
+@font-face {
+    font-family: inter;
+    src: url(static/Inter-Regular.ttf);
+}
+
+body {
+    margin: 0;
+}
+
+.button1 {
+    width: 115px;
+    height: 36px;
+    background-color: #FFD43A;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 27px;
+    border: none;
+    font-family: inter;
+    font-size: 15px;
+}
+
+.button2 {
+    width: 285px;
+    height: 36px;
+    background-color: #000000;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 14px;
+    border: none;
+    color: white;
+    font-family: inter;
+    font-size: 15px;
+}
+
+.button3 {
+    width: 336px;
+    height: 36px;
+    background-color: #B43AFF;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 14px;
+    border: none;
+    color: white;
+    font-family: inter;
+    font-size: 15px;
+}
+
+.button4 {
+    width: 441px;
+    height: 36px;
+    background-color: #E9E9E9;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 14px;
+    border: none;
+    font-family: inter;
+    font-size: 15px;
+}
+
+.button5 {
+    width: 559px;
+    height: 36px;
+    background-color: #FFD43A;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 14px;
+    border: none;
+    font-family: inter;
+    font-size: 15px;
+}
+
+.button1:hover {
+    width: 115px;
+    height: 36px;
+    background-color: #8CFF98;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 27px;
+    border: none;
+    font-family: inter;
+    font-size: 15px;
+}
+
+.button2:hover {
+    width: 285px;
+    height: 36px;
+    background-color: #D3D3D3;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 14px;
+    border: none;
+    color: white;
+    font-family: inter;
+    font-size: 15px;
+}
+
+.button3:hover {
+    width: 336px;
+    height: 36px;
+    background-color: #FF3AE0;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 14px;
+    border: none;
+    color: white;
+    font-family: inter;
+    font-size: 15px;
+}
+
+.button4:hover {
+    width: 441px;
+    height: 36px;
+    background-color: #ABABAB;
+    border-radius: 2px;
+    margin-left: 35px;
+    margin-top: 14px;
+    border: none;
+    font-family: inter;
+    font-size: 15px;
+}
+
+.button5:hover {
+    width: 588px;
+    height: 58px;
+    background-color: #FFD43A;
+    border-radius: 30px;
+    margin-left: 35px;
+    margin-top: 14px;
+    border: none;
+    font-family: inter;
+    font-size: 20px;
+    line-height: 24.2px;
+}
+
